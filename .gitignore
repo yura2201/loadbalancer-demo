@@ -1,0 +1,6 @@
+/loadbalancer-demo.iml
+/.idea/
+secrets.*
+/.terraform/
+*.tfstate**
+*.tfstate.
